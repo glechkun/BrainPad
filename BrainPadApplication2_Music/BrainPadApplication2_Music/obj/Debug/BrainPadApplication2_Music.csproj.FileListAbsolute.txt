@@ -1,0 +1,9 @@
+c:\users\greg\source\repos\BrainPadApplication2_Music\BrainPadApplication2_Music\obj\Debug\BrainPadApplication2_Music.csprojResolveAssemblyReference.cache
+c:\users\greg\source\repos\BrainPadApplication2_Music\BrainPadApplication2_Music\obj\Debug\BrainPadApplication2_Music.csproj.CoreCompileInputs.cache
+c:\users\greg\source\repos\BrainPadApplication2_Music\BrainPadApplication2_Music\bin\Debug\BrainPadApplication2_Music.exe
+c:\users\greg\source\repos\BrainPadApplication2_Music\BrainPadApplication2_Music\bin\Debug\BrainPadApplication2_Music.pdb
+c:\users\greg\source\repos\BrainPadApplication2_Music\BrainPadApplication2_Music\bin\Debug\GHIElectronics.TinyCLR.BrainPad.dll
+c:\users\greg\source\repos\BrainPadApplication2_Music\BrainPadApplication2_Music\bin\Debug\GHIElectronics.TinyCLR.Devices.dll
+c:\users\greg\source\repos\BrainPadApplication2_Music\BrainPadApplication2_Music\bin\Debug\mscorlib.dll
+c:\users\greg\source\repos\BrainPadApplication2_Music\BrainPadApplication2_Music\obj\Debug\BrainPadApplication2_Music.exe
+c:\users\greg\source\repos\BrainPadApplication2_Music\BrainPadApplication2_Music\obj\Debug\BrainPadApplication2_Music.pdb

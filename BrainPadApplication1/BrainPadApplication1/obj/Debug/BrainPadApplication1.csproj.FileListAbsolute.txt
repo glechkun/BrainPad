@@ -1,0 +1,9 @@
+C:\Users\Greg\source\repos\BrainPadApplication1\BrainPadApplication1\bin\Debug\BrainPadApplication1.exe
+C:\Users\Greg\source\repos\BrainPadApplication1\BrainPadApplication1\bin\Debug\BrainPadApplication1.pdb
+C:\Users\Greg\source\repos\BrainPadApplication1\BrainPadApplication1\bin\Debug\GHIElectronics.TinyCLR.BrainPad.dll
+C:\Users\Greg\source\repos\BrainPadApplication1\BrainPadApplication1\bin\Debug\GHIElectronics.TinyCLR.Devices.dll
+C:\Users\Greg\source\repos\BrainPadApplication1\BrainPadApplication1\bin\Debug\mscorlib.dll
+C:\Users\Greg\source\repos\BrainPadApplication1\BrainPadApplication1\obj\Debug\BrainPadApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Greg\source\repos\BrainPadApplication1\BrainPadApplication1\obj\Debug\BrainPadApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\BrainPadApplication1\BrainPadApplication1\obj\Debug\BrainPadApplication1.exe
+C:\Users\Greg\source\repos\BrainPadApplication1\BrainPadApplication1\obj\Debug\BrainPadApplication1.pdb

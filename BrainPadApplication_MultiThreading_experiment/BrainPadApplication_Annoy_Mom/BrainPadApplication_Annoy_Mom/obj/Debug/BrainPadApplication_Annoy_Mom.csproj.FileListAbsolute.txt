@@ -1,0 +1,9 @@
+c:\users\greg\source\repos\BrainPadApplication_Annoy_Mom\BrainPadApplication_Annoy_Mom\bin\Debug\BrainPadApplication_Annoy_Mom.exe
+c:\users\greg\source\repos\BrainPadApplication_Annoy_Mom\BrainPadApplication_Annoy_Mom\bin\Debug\BrainPadApplication_Annoy_Mom.pdb
+c:\users\greg\source\repos\BrainPadApplication_Annoy_Mom\BrainPadApplication_Annoy_Mom\bin\Debug\GHIElectronics.TinyCLR.BrainPad.dll
+c:\users\greg\source\repos\BrainPadApplication_Annoy_Mom\BrainPadApplication_Annoy_Mom\bin\Debug\GHIElectronics.TinyCLR.Devices.dll
+c:\users\greg\source\repos\BrainPadApplication_Annoy_Mom\BrainPadApplication_Annoy_Mom\bin\Debug\mscorlib.dll
+c:\users\greg\source\repos\BrainPadApplication_Annoy_Mom\BrainPadApplication_Annoy_Mom\obj\Debug\BrainPadApplication_Annoy_Mom.csprojResolveAssemblyReference.cache
+c:\users\greg\source\repos\BrainPadApplication_Annoy_Mom\BrainPadApplication_Annoy_Mom\obj\Debug\BrainPadApplication_Annoy_Mom.csproj.CoreCompileInputs.cache
+c:\users\greg\source\repos\BrainPadApplication_Annoy_Mom\BrainPadApplication_Annoy_Mom\obj\Debug\BrainPadApplication_Annoy_Mom.exe
+c:\users\greg\source\repos\BrainPadApplication_Annoy_Mom\BrainPadApplication_Annoy_Mom\obj\Debug\BrainPadApplication_Annoy_Mom.pdb
